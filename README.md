@@ -9,8 +9,9 @@
 - up to: learn rust
 
 ---
-Socials:
-![Discord](https://dcbadge.limes.pink/api/shield/327012928031162368) [![Telegram](https://img.shields.io/badge/Telegram-%232CA5E0.svg?style=for-the-badge&logo=telegram&logoColor=white)](https://t.me/manzolillom)
+Socials:<br />
+![Discord](https://dcbadge.limes.pink/api/shield/327012928031162368)
+[![Telegram](https://img.shields.io/badge/Telegram-%232CA5E0.svg?style=for-the-badge&logo=telegram&logoColor=white)](https://t.me/manzolillom)
 
 
 
