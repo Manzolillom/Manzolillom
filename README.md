@@ -5,7 +5,14 @@
 - learning chinese
 - 3d low-poly character design and modeling
 - co-developing a videogame
+
 - up to: learn rust
+
+---
+Socials
+![Discord]([https://img.shields.io/badge/Discord-%235865F2.svg?style=for-the-badge&logo=discord&logoColor=white](https://dcbadge.limes.pink/api/shield/327012928031162368)) [![Telegram](https://img.shields.io/badge/Telegram-%232CA5E0.svg?style=for-the-badge&logo=telegram&logoColor=white)](https://t.me/manzolillom)
+
+
 
 <!--
 **Manzolillom/Manzolillom** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
