@@ -1,9 +1,9 @@
 [![Hello There](https://capsule-render.vercel.app/api?type=waving&color=timeGradient&text=Hello%20There&fontColor=360f5a)](https://youtu.be/eaEMSKzqGAg)
 [![My Skills](https://skillicons.dev/icons?i=obsidian,cs,unity,visualstudio,java,python,js,html,css,regex,git,github,vscode,linux,arch,latex,blender,discord)](https://skillicons.dev)
-## Currently working on:
+## Currently:
 - studying for university 
 - learning chinese
-- 3d low-poly character design and modeling
+- learning 3d low-poly character design and modeling
 - co-developing a videogame
 
 - up to: learn rust
