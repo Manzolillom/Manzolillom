@@ -1,5 +1,5 @@
-## Hi there 👋
-
+## Hello there
+[![My Skills](https://skillicons.dev/icons?i=js,html,css,unity,latex,js,java,cs,python,blender,csp,regex,git)](https://skillicons.dev)
 <!--
 **Manzolillom/Manzolillom** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
