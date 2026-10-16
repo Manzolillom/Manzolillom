@@ -10,7 +10,7 @@
 
 ---
 Socials
-![Discord]([https://img.shields.io/badge/Discord-%235865F2.svg?style=for-the-badge&logo=discord&logoColor=white](https://dcbadge.limes.pink/api/shield/327012928031162368)) [![Telegram](https://img.shields.io/badge/Telegram-%232CA5E0.svg?style=for-the-badge&logo=telegram&logoColor=white)](https://t.me/manzolillom)
+![Discord](https://dcbadge.limes.pink/api/shield/327012928031162368) [![Telegram](https://img.shields.io/badge/Telegram-%232CA5E0.svg?style=for-the-badge&logo=telegram&logoColor=white)](https://t.me/manzolillom)
 
 
 
