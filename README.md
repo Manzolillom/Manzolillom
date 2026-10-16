@@ -1,5 +1,12 @@
 ## Hello there
-[![My Skills](https://skillicons.dev/icons?i=js,html,css,unity,latex,js,java,cs,python,blender,csp,regex,git)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=obsidian,cs,unity,visualstudio,java,python,js,html,css,regex,git,github,vscode,linux,arch,latex,blender,discord)](https://skillicons.dev)
+## Currently working on:
+- studying for university 
+- learning chinese
+- 3d low-poly character design and modeling
+- co-developing a videogame
+- up to: learn rust
+
 <!--
 **Manzolillom/Manzolillom** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
